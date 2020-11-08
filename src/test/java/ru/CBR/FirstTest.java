@@ -1,4 +1,4 @@
-package ru.deliveryClub;
+package ru.CBR;
 
 import org.junit.Assert;
 import org.junit.Test;
